@@ -152,3 +152,6 @@ MIT License
 Inspiriert von / Inspired by **[ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** von [@helloianneo](https://github.com/helloianneo) – vielen Dank für das großartige Konzept! / Many thanks for the great concept!
 
 Entwickelt von / Developed by [LogiQore](https://github.com/LogiQore) für / for [ki-content-creator.de](https://ki-content-creator.de)
+
+### Content nach Ziel sortieren / Sort Content by Goal
+![Content nach Ziel sortieren](examples/09-content-nach-ziel-sortieren.png)
